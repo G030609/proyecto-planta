@@ -1,0 +1,24 @@
+CRITICAL - 2023-11-14 19:51:23 --> Undefined array key "nombre_categoria"
+in APPPATH\Controllers\Categoria.php on line 35.
+ 1 APPPATH\Controllers\Categoria.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre_categoria"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Categoria.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Categoria->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categoria))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-14 19:53:38 --> Undefined array key "nombre_categoria"
+in APPPATH\Controllers\Categoria.php on line 35.
+ 1 APPPATH\Controllers\Categoria.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre_categoria"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Categoria.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Categoria->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categoria))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-14 19:55:26 --> Undefined array key "nombre_categoria"
+in APPPATH\Controllers\Categoria.php on line 35.
+ 1 APPPATH\Controllers\Categoria.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre_categoria"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Categoria.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Categoria->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categoria))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')

@@ -1,0 +1,104 @@
+CRITICAL - 2023-11-22 01:33:20 --> Undefined variable $planta
+in APPPATH\Views\hierba\mostrar.php on line 30.
+ 1 APPPATH\Views\hierba\mostrar.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $planta', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Views\\hierba\\mostrar.php', 30)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Views\\hierba\\mostrar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('hierba/mostrar', [], true)
+ 5 APPPATH\Controllers\Hierba.php(20): view('hierba/mostrar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->mostrar()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 01:57:32 --> Undefined property: stdClass::$imagen
+in APPPATH\Views\hierba\mostrar.php on line 29.
+ 1 APPPATH\Views\hierba\mostrar.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$imagen', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Views\\hierba\\mostrar.php', 29)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Views\\hierba\\mostrar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('hierba/mostrar', [], true)
+ 5 APPPATH\Controllers\Hierba.php(20): view('hierba/mostrar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->mostrar()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:15:59 --> Undefined array key "imagen"
+in APPPATH\Controllers\Hierba.php on line 35.
+ 1 APPPATH\Controllers\Hierba.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:17:31 --> Undefined array key "imagen"
+in APPPATH\Controllers\Hierba.php on line 35.
+ 1 APPPATH\Controllers\Hierba.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:29:52 --> Undefined array key "imagen"
+in APPPATH\Controllers\Hierba.php on line 35.
+ 1 APPPATH\Controllers\Hierba.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:31:58 --> Undefined array key "imagen"
+in APPPATH\Controllers\Hierba.php on line 35.
+ 1 APPPATH\Controllers\Hierba.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:34:03 --> Undefined array key "lugar_origen"
+in APPPATH\Controllers\Hierba.php on line 37.
+ 1 APPPATH\Controllers\Hierba.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lugar_origen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:35:29 --> Undefined array key "lugar_origen"
+in APPPATH\Controllers\Hierba.php on line 37.
+ 1 APPPATH\Controllers\Hierba.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lugar_origen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:37:06 --> Undefined array key "lugar_origen"
+in APPPATH\Controllers\Hierba.php on line 36.
+ 1 APPPATH\Controllers\Hierba.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lugar_origen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:38:16 --> Undefined array key "lugar_origen"
+in APPPATH\Controllers\Hierba.php on line 36.
+ 1 APPPATH\Controllers\Hierba.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lugar_origen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:39:01 --> Undefined array key "lugar_origen"
+in APPPATH\Controllers\Hierba.php on line 36.
+ 1 APPPATH\Controllers\Hierba.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lugar_origen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
+CRITICAL - 2023-11-22 02:39:18 --> Undefined array key "lugar_origen"
+in APPPATH\Controllers\Hierba.php on line 36.
+ 1 APPPATH\Controllers\Hierba.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lugar_origen"', 'C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\app\\Controllers\\Hierba.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Hierba->insert()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Hierba))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Usuario\\Documents\\5to Semestre\\Desarrollo de aplicaciones web\\ProyectoPlanta\\public\\index.php')
